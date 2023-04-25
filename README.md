@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sabir</a> 
+<h1 align="center">Hi there, I'm <a href="https://cv.hexlet.io/resumes/2227" target="_blank">Sabir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Future Frontend Developer</h3>
 
